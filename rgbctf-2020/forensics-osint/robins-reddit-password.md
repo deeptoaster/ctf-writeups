@@ -26,4 +26,4 @@ gave the answer as "bird."
 Flag
 ----
 
-rgbCTF{bird}
+`rgbCTF{bird}`
