@@ -62,6 +62,7 @@ prints out the pieces collected along the way:
     print(dijkstra(graph, "1", "200000"))
 
 This prints the following string:
+
     m1amJL5WAQ5Pj5mP}e1Eggs,HandSanitizer,Fruit,Soap,Pizza,IceCream,Bleach,Bread,Milk,Politicians,MacAndCheese,ToiletPaper,rgbCTF{1m_b4d_4t_sh0pp1ng},Cookies,Water,Rice,TomBrady,NewcastleUnited,YourSoul
 
 Oh look, a flag.
